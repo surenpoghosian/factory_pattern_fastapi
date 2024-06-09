@@ -20,8 +20,8 @@ Welcome to the FastAPI Animal Factory project! This project demonstrates the use
 
 3. Set up a virtual environment:
 
-`python3 -m venv venv`
-`source venv/bin/activate`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
 
 4. Install dependencies:
 
@@ -54,9 +54,7 @@ Examples
 
 To run the tests, use the following command:
 
-bash
-Copy code
-pytest
+`pytest`
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
