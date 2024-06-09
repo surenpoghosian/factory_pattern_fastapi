@@ -12,7 +12,7 @@ Welcome to the FastAPI Animal Factory project! This project demonstrates the use
 
 1. Clone the repository:
 
-`git clone https://github.com/your_username/fastapi-animal-factory.git`
+`git clone https://github.com/surenpoghosian/fastapi-animal-factory.git`
 
 2. Navigate to the project directory:
 
